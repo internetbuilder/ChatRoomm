@@ -1,6 +1,6 @@
 # ChatRoom
 
-NodeJS based Text, Image, File Real Time Chat Room.
+NodeJS based Text, Image, File Real Time Chat Room..
 
 [**You can see the live demo here**](http://chat.systenics.com)
 
